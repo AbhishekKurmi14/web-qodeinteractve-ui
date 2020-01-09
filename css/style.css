@@ -1,0 +1,396 @@
+html,
+body {
+    margin: 0px;
+    height: 100%
+}
+
+.bg1_image {
+    background-image: url(../image/300ppi/01.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg2_image {
+    background-image: url(../image/300ppi/02.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg3_image {
+    background-image: url(../image/300ppi/03.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg4_image {
+    background-image: url(../image/300ppi/04.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg5_image {
+    background-image: url(../image/300ppi/05.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg6_image {
+    background-image: url(../image/300ppi/06.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg7_image {
+    background-image: url(../image/300ppi/07.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg8_image {
+    background-image: url(../image/300ppi/08.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg9_image {
+    background-image: url(../image/300ppi/09.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg10_image {
+    background-image: url(../image/300ppi/10.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg11_image {
+    background-image: url(../image/300ppi/11.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.bg12_image {
+    background-image: url(../image/300ppi/12.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.middle_container {
+    background-image: url(../image/300ppi/home-background-img.png);
+    height: 120%;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll;
+    padding-top: 25px
+}
+
+.middle_container_1 {
+    width: 85%;
+    margin: auto;
+    overflow: auto
+}
+
+.middle_container_2 {
+    width: 25%;
+    float: left;
+}
+
+.middle_container_3 {
+    padding: 0px 15px;
+    text-align: center
+}
+
+.middle_container_4 {
+    margin: 0px 0px 13px
+}
+
+.middle_container_5 {
+    padding: 0px 0px 18px
+}
+
+.icon_title {
+    color: white;
+    font-size: 28px;
+    margin: 0px 0px 23px
+}
+
+.icon_title_1 {
+    color: white;
+    font-size: 18px
+}
+
+.middle_container_6 {
+    text-align: center
+}
+
+.middle_container_7 {
+    padding: 78px 450px
+}
+
+.middle_container_8 {}
+
+.text {
+    font-size: 26px;
+    color: #2a2a2a;
+    margin: 10px 0px
+}
+
+.text_1 {
+    font-size: 16px;
+    color: #ff5562;
+    margin: 10px 0px
+}
+
+.center_container {
+    background-image: url(../image/300ppi/home.png);
+    background-size: cover;
+    background-attachment: scroll;
+    height: 100%;
+}
+
+.center_container_1 {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.center_container_2 {
+    padding: 0px 10px
+}
+
+.center_container_3 {
+    width: 33.33%;
+    float: left
+}
+
+.center_container_4 {
+    margin: 0px 0px 60px 0px
+}
+
+.center_container_5 {
+    overflow: auto
+}
+
+.center_container_5 {
+    width: 40%;
+    float: left
+}
+
+.text_2 {
+    font-size: 78px;
+    padding: 0px 3px;
+    color: #242424;
+    float: left
+}
+
+.text_3 {
+    font-size: 24px;
+    color: #242424;
+    float: left;
+    padding: 0px 0px 0px 15px
+}
+
+.text_4 {
+    font-size: 14px;
+    color: #242424;
+    padding: 100px 0px 0px 0px;
+    display: block
+}
+
+.center_container_6 {
+    width: 60%;
+    float: left
+}
+
+.center_container_7 {}
+
+.text_5 {
+    font-size: 18px
+}
+
+.text_6 {
+    font-size: 28px;
+    color: #242424;
+    padding: 15px 0px 25px;
+    margin: 0px
+}
+
+.text_7 {
+    margin: 15px 0px;
+    font-size: 18px
+}
+
+.text_8 {
+    color: white;
+    background-color: #ff5562;
+    padding: 25px 45px;
+    display: inline-block;
+    margin: 20px 0px;
+}
+
+.text_9 {
+    padding: 20px 0px
+}
+
+hr {
+    margin: 0px;
+}
+
+.bg_image {
+    background-image: url(../image/300ppi/home_background_1.png);
+    height: 100%;
+    background-size: cover;
+    background-attachment: scroll
+}
+
+.last_container {
+    width: 80%;
+    margin: auto;
+    overflow: auto
+}
+
+.last_container_1 {
+    padding: 150px 0px 0px 0px;
+    text-align: center
+}
+
+.text_10 {
+    font-size: 45px
+}
+
+.last_container_3 {
+    padding: 10px 100px;
+    overflow: auto
+}
+
+.last_container_4 {
+    width: 45%;
+    float: left;
+    height: 80px;
+    padding: 25px
+}
+
+.last_container_5 {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+
+}
+
+.last_container_6 {
+    padding: 25px
+}
+
+.text_11 {
+    font-size: 25px
+}
+
+.last_container_7 {
+    width: 45%;
+    float: right;
+    height: 80px;
+    padding: 25px
+}
+
+.last_container_8 {
+    width: 95%;
+    float: left;
+    height: 80px;
+    padding: 10px 25px
+}
+
+.last_container_9 {
+    width: 95%;
+    float: left;
+    height: 190px;
+    padding: 20px 25px
+}
+
+.last_container_12 {
+    text-align: center;
+}
+
+.text_12 {
+    padding: 30px 40px;
+    background-color: #ff5562;
+    color: white;
+    display: inline-block;
+}
+
+.last_container_13{
+ background-image: url(../image/300ppi/footer-background-img.png);
+    height: 50%;
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0px;
+    text-align: center
+}
+.last_container_14{
+  width: 80%;
+  margin: auto;
+    overflow: auto
+}
+.last_container_16{
+    
+}
+.last_container_15{
+     color: white;
+}
+.text_14{
+    font-size: 28px;
+    margin: 67px 0px 18px
+}
+.text_13{
+    margin: 0px 0px 68px 0px;
+    font-size: 26px
+}
+.last_container_17{
+    
+}
+.image_1{
+    width: 50px;
+    height: 50px;
+}
+.text_15{
+    color: white;
+    padding: 50px 0px 0px 0px;
+    font-size: 20px
+}
