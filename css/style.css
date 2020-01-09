@@ -182,7 +182,7 @@ body {
     background-image: url(../image/300ppi/home.png);
     background-size: cover;
     background-attachment: scroll;
-    height: 100%;
+    height: 88%;
 }
 
 .center_container_1 {
@@ -275,7 +275,7 @@ hr {
 
 .bg_image {
     background-image: url(../image/300ppi/home_background_1.png);
-    height: 100%;
+    height: 90%;
     background-size: cover;
     background-attachment: scroll
 }
