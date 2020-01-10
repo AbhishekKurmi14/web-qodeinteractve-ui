@@ -3,6 +3,9 @@ body {
     margin: 0px;
     height: 100%
 }
+*{
+    box-sizing: border-box
+}
 
 .bg1_image {
     background-image: url(../image/300ppi/01.png);
@@ -113,12 +116,13 @@ body {
 }
 
 .middle_container {
-    background-image: url(../image/300ppi/home-background-img.png);
-    height: 120%;
-    background-position: center center;
+    background-image: url(../image/300ppi/home_background.png);
+    height: 50%;
+    background-position: center ;
     background-size: cover;
     background-attachment: scroll;
-    padding-top: 25px
+    padding-top: 25px; 
+    overflow: auto
 }
 
 .middle_container_1 {
@@ -157,11 +161,19 @@ body {
 }
 
 .middle_container_6 {
-    text-align: center
+    text-align: center;
+    background-image: url(../image/300ppi/background.png);
+    height: 50%;
+    background-position: center ;
+    background-size: cover;
+    background-attachment: scroll;
+    padding-top: 25px; 
+    overflow: auto
 }
 
 .middle_container_7 {
-    padding: 78px 450px
+    padding: 0px 200px;
+    overflow: auto
 }
 
 .middle_container_8 {}
@@ -182,7 +194,7 @@ body {
     background-image: url(../image/300ppi/home.png);
     background-size: cover;
     background-attachment: scroll;
-    height: 88%;
+    height: 100%;
 }
 
 .center_container_1 {
@@ -275,11 +287,14 @@ hr {
 
 .bg_image {
     background-image: url(../image/300ppi/home_background_1.png);
-    height: 90%;
+    height: 100%;
     background-size: cover;
     background-attachment: scroll
 }
 
+.container{
+    overflow: auto
+}
 .last_container {
     width: 80%;
     margin: auto;
@@ -301,9 +316,9 @@ hr {
 }
 
 .last_container_4 {
-    width: 45%;
+    width: 50%;
     float: left;
-    height: 80px;
+    height: 125px;
     padding: 25px
 }
 
@@ -315,7 +330,7 @@ hr {
 }
 
 .last_container_6 {
-    padding: 25px
+    padding: 25px;
 }
 
 .text_11 {
@@ -323,21 +338,21 @@ hr {
 }
 
 .last_container_7 {
-    width: 45%;
+    width: 50%;
     float: right;
-    height: 80px;
+    height: 125px;
     padding: 25px
 }
 
 .last_container_8 {
-    width: 95%;
+    width: 100%;
     float: left;
-    height: 80px;
+    height: 100px;
     padding: 10px 25px
 }
 
 .last_container_9 {
-    width: 95%;
+    width: 100%;
     float: left;
     height: 190px;
     padding: 20px 25px
@@ -356,7 +371,7 @@ hr {
 
 .last_container_13{
  background-image: url(../image/300ppi/footer-background-img.png);
-    height: 50%;
+    height: 100%;
     background-attachment: scroll;
     background-size: cover;
     background-position: center;
